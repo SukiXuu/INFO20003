@@ -17,7 +17,7 @@ cond(yes)->e
 cond(no)->op
 ```
 
-```text
+```mermaid
 %% Example of sequence diagram
   sequenceDiagram
     Alice->>Bob: Hello Bob, how are you?
